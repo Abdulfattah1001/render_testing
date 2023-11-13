@@ -1,0 +1,23 @@
+{
+  "name": "render_testing",
+  "version": "1.0.0",
+  "description": "testing and practising the usage of render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulfattah1001/render_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdulfattah1001/render_testing/issues"
+  },
+  "homepage": "https://github.com/Abdulfattah1001/render_testing#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
